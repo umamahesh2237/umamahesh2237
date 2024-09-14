@@ -5,8 +5,3 @@
 - 📫 How to reach me : https://www.linkedin.com/in/uma-mahesh-borapureddi/
 - 😄 Pronouns: he/him
 - ⚡ More about me: I'm an passionate calligraphy artist. Check my IG handle: @thecalligraphyhome
-
-<!---
-umamahesh2237/umamahesh2237 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
