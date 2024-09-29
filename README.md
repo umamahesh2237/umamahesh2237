@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Uma Mahesh.
-- 👀 I’m interested in front-end development, and creating user-friendly applications.
+- 👀 I’m interested in front-end development, and creating user-friendly web applications.
 - 🌱 I’m currently learning DSA, and many more amazing technologies in this ever-growing tech field.
-- 💞️ I’m looking to collaborate on quality projects through interships or full time roles where I can showcase my skills or learn new skills along the way.
+- 💞️ I’m looking to collaborate on quality projects through interships or full time roles where I can showcase my skills and also learn new skills along the way.
 - 📫 How to reach me : https://www.linkedin.com/in/uma-mahesh-borapureddi/
 - 😄 Pronouns: he/him
 - ⚡ More about me: I'm an passionate calligraphy artist. Check my IG handle: @thecalligraphyhome
