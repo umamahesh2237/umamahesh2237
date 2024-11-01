@@ -4,4 +4,4 @@
 - 💞️ I'm seeking internships or full-time roles to apply my skills and continue learning.
 - 📫 Reach me via: https://www.linkedin.com/in/uma-mahesh-borapureddi/
 - 😄 Pronouns: he/him
-- ⚡ More about me: I'm an passionate artist. Check @thecalligraphyhome on Instagram.
+- ⚡ More about me: Passionate artist! Check out my work on Instagram: @thecalligraphyhome
