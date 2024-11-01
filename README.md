@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Uma Mahesh, a B.Tech. CSE senior at Geethanjali College of Engineering and Technology.
+- 👋 Hi, I’m Uma Mahesh, a B.Tech. CSE senior.
 - 👀 I’m interested in front-end development, and creating user-friendly web applications.
-- 🌱 I’m upskilling myself in DSA and also exploring amazing technologies.
-- 💞️ I’m looking to collaborate on quality projects through interships or full time roles where I can showcase my skills and learn.
-- 📫 How to reach me: https://www.linkedin.com/in/uma-mahesh-borapureddi/
+- 🌱 I’m upskilling in DSA and also exploring other technologies.
+- 💞️ I'm seeking internships or full-time roles to apply my skills and continue learning.
+- 📫 Reach me via: https://www.linkedin.com/in/uma-mahesh-borapureddi/
 - 😄 Pronouns: he/him
-- ⚡ More about me: I'm an passionate calligraphy artist. Check my IG handle: @thecalligraphyhome
+- ⚡ More about me: I'm an passionate artist. Check @thecalligraphyhome on Instagram.
