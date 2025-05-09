@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Uma Mahesh, a B.Tech. CSE senior.
-- 👀 I’m interested in building user-friendly web applications.
-- 🌱 I’m upskilling in DSA and also exploring other technologies.
-- 💞️ I'm interning at Coginizant in Pune.
+- 👋 I’m Uma Mahesh, a B.Tech. CSE senior.
+- 👀 I find fulfilment in building impactful web applications.
+- 🌱 I’m upskilling in DSA and exploring other areas.
 - 📫 Reach me via: https://www.linkedin.com/in/uma-mahesh-borapureddi/
 - 😄 Pronouns: he/him
-- ⚡ More about me: Passionate artist! Check out my work on Instagram: @thecalligraphyhome
+- ⚡ More about me: I'm also a passionate artist. Check @thecalligraphyhome on IG.
