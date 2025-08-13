@@ -1,5 +1,1 @@
-- 👋 Hi, I'm Uma Mahesh.
-- A computer science engineer passionate about building impactful web applications. I'm currently honing my skills in Data Structures and Algorithms and exploring new areas in tech.
-- Reach me on LinkedIn: https://www.linkedin.com/in/uma-mahesh-borapureddi
-- Pronouns: He/him
-- Fun fact: I'm also a passionate artist! Check out my work on Instagram @thecalligraphyhome.
+I am a computer science engineer, and I find fulfilment in building web applications that deliver impactful experiences.
